@@ -3,3 +3,4 @@ Get weather data for a specific location from yr.no using their API. A batch sci
 ```
 python get_weather_forecast.py 
 ```
+The url and the file names in the script should be changed to match the location and the data you want to download.
