@@ -25,8 +25,8 @@ else:
 endpoint = 'https://frost.met.no/observations/v0.jsonld'
 parameters = {
     'sources': source_id,
-    'elements': 'air_temperature',  # Simple temperature measurement
-    'referencetime': '2012-01-01/2012-12-31',  # Last week of data
+    'elements': 'air_temperature',  
+    'referencetime': '2014-01-01/2014-12-31',  
 }
 
 # Extract start and end dates from referencetime
